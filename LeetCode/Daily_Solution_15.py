@@ -1,4 +1,4 @@
-class Solution_15:
+class Daily_Solution_15:
     def countBadPairs(self, nums: List[int]) -> int:
         freq = {}
         good_count = 0
